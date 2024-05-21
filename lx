@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test</title>
+    <script>
+        function myfunction(){
+            alert('1245');
+        }
+    </script>
+</head>
+<body>
+    <button onclick="myfunction()">点我</button>
+</body>
+</html>
